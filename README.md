@@ -1,7 +1,8 @@
 # Maps<br/><br/>
 
-
--display map<br/>
--add mark<br/>
--show text-box when you click the icon
+<ul>
+  <li>display map</li>
+  <li>add mark</li>
+  <li>show text-box when you click the icon</li>
+</ul>
 
